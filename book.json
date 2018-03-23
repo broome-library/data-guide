@@ -1,0 +1,10 @@
+{
+    "description": "A JSBL Data and Statistics Research Guide",
+    "structure":{
+        "readme":"intro.md"
+    },
+    "title":"Data and Statistics Research Guide",
+    "variables": {
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/lworden.md"        
+    }
+}
