@@ -16,8 +16,8 @@
 
 ## Health
 
-* [Centers for Disease Control and Prevention \(CMS\)](http://www.cdc.gov/DataStatistics/) \(CDC\)
-* [Centers for Medicare and Medicaid Services](http://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems.html) 
+* [Centers for Disease Control and Prevention \(CDC\) - Data and Statistics](https://www.cdc.gov/DataStatistics/)
+* [Centers for Medicare and Medicaid Services](http://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems.html) [\(CMS\)](http://www.cdc.gov/DataStatistics/)
 * [Department of Health and Human Services](http://datawarehouse.hrsa.gov/)
 * [Genomic Data Department of Health and Human Services](https://www.cdc.gov/genomics/resources/data_stats/index.htm)
 * [Health Resources and Services Administration](http://www.hrsa.gov/data-statistics/index.html)
