@@ -20,7 +20,7 @@
 * [Centers for Medicare and Medicaid Services \(CMS\) - Research, Statistics, Data & Systems](https://www.cms.gov/research-statistics-data-and-systems/research-statistics-data-and-systems.html)
 * [Department of Health and Human Services](http://datawarehouse.hrsa.gov/)
 * [Genomic Data Department of Health and Human Services](https://www.cdc.gov/genomics/resources/data_stats/index.htm)
-* [Health Resources and Services Administration](http://www.hrsa.gov/data-statistics/index.html)
+* [Health Resources and Services Administration](https://data.hrsa.gov/)
 * [Indian Health Service](http://www.ihs.gov/communityhealth/gis/)
 * [National Institute of Mental Health \(NIMH\)](http://www.nimh.nih.gov/research-priorities/research-resources/index.shtml)
 * [National Institutes of Health](http://www.nih.gov/science/index.html#researchresources)
