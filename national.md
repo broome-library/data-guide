@@ -57,7 +57,7 @@
 * [Foreign Agricultural Service](http://www.fas.usda.gov/data)
 * [National Agricultural Statistics Service](http://www.nass.usda.gov/)
 
-## **Census & Vitals Statistcs**
+## **Census & Vitals Statistics**
 
 * [Census Bureau](http://www.census.gov/)
 * [US Census Bureau Statistical Abstract](http://www.census.gov/compendia/statab/)
