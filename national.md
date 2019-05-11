@@ -29,7 +29,7 @@
 
 ## Labor
 
-* [Bureau of International Labor Affairs](http://www.dol.gov/ilab/map/)
+* [Bureau of International Labor Affairs](https://www.dol.gov/agencies/ilab/research-impact-evaluation)
 * [Bureau of Labor Statistics](http://stats.bls.gov/)
 
 ## **Legal & Legislative**
