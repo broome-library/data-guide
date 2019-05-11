@@ -98,8 +98,8 @@
 ## **Additional Federal Resources**
 
 * [Data.Gov](http://www.data.gov/)
-* [FedWorld.gov](http://fedworld.ntis.gov/)
-* [National Technical Information Service](http://www.ntis.gov/Index.aspx)
+* [National Technical Information Service](https://www.ntis.gov/)
+* [Office of Personnel Management](https://www.opm.gov/policy-data-oversight/data-analysis-documentation/fedscope/)
 * [USA.gov](http://www.usa.gov/)
 
 
