@@ -51,10 +51,11 @@
 
 * [Agricultural Marketing Service](http://www.ams.usda.gov/AMSv1.0/)
 * [Agricultural Research Service](http://www.ars.usda.gov/Research/research.htm)
+* [Census of Agriculture](https://www.nass.usda.gov/AgCensus/)
 * [FDA Drug Approval and Databases](https://www.fda.gov/drugs/development-approval-process-drugs/drug-approvals-and-databases)
-* [FDS Medical Device Database](http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/Databases/default.htm)
+* [FDS Medical Device Databases](https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/medical-device-databases)
 * [Food and Drug Administration \(FDA\)](http://www.fda.gov/ScienceResearch/AboutScienceResearchatFDA/default.htm)
-* [Food Safety and Inspection Service](http://www.fsis.usda.gov.edgesuite.net/wps/portal/searchhelp/sitemap/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOINAg3MDC2dDbz8LQ3dDDz9wgL9vZ2dDdx9jYAKIkEKcABHA0L6w_Wj8CqxMIEpwG1FQW6EQaajoiIATT6WFQ!!/?1dmy&current=true&urile=wcm%3apath%3a%2FFSIS-Content%2Finternet%2Fmain%2Ftopics%2Fdata-collection-and-reports)
+* [Food Safety and Inspection Service](https://www.fsis.usda.gov/wps/portal/fsis/topics/data-collection-and-reports)
 * [Foreign Agricultural Service](http://www.fas.usda.gov/data)
 * [National Agricultural Statistics Service](http://www.nass.usda.gov/)
 
