@@ -62,7 +62,7 @@
 ## **Census & Vitals Statistics**
 
 * [Census Bureau](http://www.census.gov/)
-* [US Census Bureau Statistical Abstract](http://www.census.gov/compendia/statab/)
+* [US Census Bureau Statistical Abstract](https://www.census.gov/library/publications/time-series/statistical_abstracts.html)
 
 ## **Education**
 
