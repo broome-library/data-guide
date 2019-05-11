@@ -67,6 +67,7 @@
 * [Central American Bank for Economic Integration](http://www.bcie.org/?cat=14&title=CABEI Statistics&lang=en)
 * [Central Bank of the States of West Africa](http://www.bceao.int/-Statistiques-.html)
 * [Common Market for Eastern and Southern Africa—Comstat data Portal](http://comstat.comesa.int/)
+* [COMSTAT DATA HUB Open Data](http://comstat.comesa.int/xhcchbg/open-data)
 * [Consultative Group to Assist the Poorest](http://www.cgap.org/data)
 * [Council of Europe](http://hub.coe.int/)
 * [Economic and Social Commission for Asia and the Pacific](http://www.unescap.org/stat/data/)
