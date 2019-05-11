@@ -26,20 +26,19 @@
 
 * [African Union](http://www.au.int/en/)
 * [Asociacion Latinoamericana de Integration](http://www.aladi.org/)
-* [Association of Southeast Asian Nations](http://www.asean.org/resources/2012-02-10-08-47-55)
+* [Association of Southeast Asian Nations](https://data.aseanstats.org/)
 * [European Union](http://europa.eu/index_en.htm)
 * [Latin Union](http://www.unilat.org/)
-* [Nordic Council and Council of Ministers](http://www.norden.org/en/the-nordic-region/figures-and-statistics)
+* [Nordic Council and Council of Ministers](https://www.norden.org/en/statistics)
 * [PARLINE database on national parliaments](http://www.ipu.org/parline-e/parlinesearch.asp)
 
 ## Agriculture & Food Safety
 
-* [Center for Alleviation of Poverty through Sustainable Agriculture](http://www.uncapsa.org/database-about.asp)
 * [Fisheries and Aquaculture Department](http://www.fao.org/fishery/statistics/en)
 * [Food and Agriculture Organization of the United Nations](http://www.fao.org/statistics/en/)
 * [International Coffee Organization](http://www.ico.org/)
 * [UNICEF](http://www.unicef.org/statistics/)
-* [World Food Programme](http://www.wfp.org/)\(WFP\)
+* [World Food Programme \(WFP\)](https://www1.wfp.org/)
 
 ## Education
 
@@ -56,7 +55,6 @@
 * [Helsinki Commission - Baltic Marine Environment Protection Commission](http://www.helcom.fi/baltic-sea-trends/data-maps/)
 * [International Atomic Energy Agency PRIS](http://www.iaea.org/PRIS/home.aspx)
 * [International Council for the Exploration of the Sea](http://www.ices.dk/marine-data/Pages/default.aspx)
-* [South Pacific Applied Geoscience Commission](http://www.sopac.org/)
 * [United Nations Environment Programme](http://www.unep.org/)
 * [World Meteorological Organization](http://www.wmo.int/pages/index_en.html)
 * [World Meteorological Organization Library](http://library.wmo.int/opac/index.php?lvl=infopages&lang=en_UK&pagesid=1#.U9rVwvldV8E)
@@ -64,12 +62,11 @@
 ## Banking Business & Development
 
 * [African Development Bank Group](http://www.afdb.org/en/knowledge/statistics/)
-* [Andean Statistics](http://estadisticas.comunidadandina.org/eportal/)
 * [Asian Development Bank](http://www.adb.org/data/main)\(ADB\)
 * [Bank for International Settlements](http://www.bis.org/statistics/index.htm)
-* [Central American Bank for Economic Integration](http://www.bcie.org/?cat=14&title=CABEI%20Statistics&lang=en)
+* [Central American Bank for Economic Integration](http://www.bcie.org/?cat=14&title=CABEI Statistics&lang=en)
 * [Central Bank of the States of West Africa](http://www.bceao.int/-Statistiques-.html)
-* [Common Market for Eastern and Southern Africa—Comstat data Portal](http://comstat.comesa.int/Home.aspx)
+* [Common Market for Eastern and Southern Africa—Comstat data Portal](http://comstat.comesa.int/)
 * [Consultative Group to Assist the Poorest](http://www.cgap.org/data)
 * [Council of Europe](http://hub.coe.int/)
 * [Economic and Social Commission for Asia and the Pacific](http://www.unescap.org/stat/data/)
