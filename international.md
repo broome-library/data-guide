@@ -95,7 +95,7 @@
 * [United Nation Development Programme](http://www.undp.org/content/undp/en/home/operations/procurement/statistics.html)\(UNDP\)
 * [United Nations Conference on Trade and Development](http://unctad.org/en/Pages/Statistics.aspx)
 * [United Nations Industrial Development Organization](https://www.unido.org/researchers/statistical-databases)
-* [World Bank](http://data.worldbank.org/)Group
+* [World Bank Open Data](https://data.worldbank.org/)
 * [World Intellectual Property Organization](http://www.wipo.int/reference/en/)
 * [World Trade Organization](http://www.wto.org/english/res_e/res_e.htm)
 
