@@ -85,7 +85,7 @@
 * [National Design, Construction, and Soil Mechanics Center](http://www.nrcs.usda.gov/wps/portal/nrcs/main/national/ndcsmc/)
 * [National Geospatial Center of Excellence](http://www.nrcs.usda.gov/wps/portal/nrcs/main/national/ngce/)
 * [National Oceanic and Atmospheric Administration \(NOAA\)](http://oceanservice.noaa.gov/dataexplorer/)
-* [National Oceanic and Atmospheric Administration Research\(NOAA\)](http://www.noaa.gov/research.html)
+* [National Oceanic and Atmospheric Administration Research \(NOAA\)](http://www.noaa.gov/research.html)
 * [National Soil Survey Center](http://www.nrcs.usda.gov/wps/portal/nrcs/site/soils/home/)
 * [National Water and Climate Center](http://www.nrcs.usda.gov/wps/portal/nrcs/main/national/nwcc/)
 * [National Water Management Center](http://www.nrcs.usda.gov/wps/portal/nrcs/main/national/nwmc/)
@@ -98,7 +98,7 @@
 ## **Additional Federal Resources**
 
 * [Data.Gov](http://www.data.gov/)
-* [General Services Administration Digital Analytics Program](https://analytics.usa.gov/)
+* [General Services Administration Digital Analytics Program \(DAP Public Dashboard\)](https://analytics.usa.gov/)
 * [National Technical Information Service](https://www.ntis.gov/)
 * [Office of Personnel Management](https://www.opm.gov/policy-data-oversight/data-analysis-documentation/fedscope/)
 * [Social Security Administration - Office of Research, Evaluation, and Statistics](https://www.ssa.gov/policy/about/ORES.html)
