@@ -83,7 +83,7 @@
 * [European Court of Homan Rights](http://www.echr.coe.int/Pages/home.aspx?p=reports&c=)
 * [European Free Trade Association](http://www.efta.int/statistics)
 * [European Investment Bank](http://www.eib.org/investor_relations/statistics/index.htm)\(EIB\)
-* [Inter-American Development Bank \(IDB\)](https://data.iadb.org/)
+* [Inter-American Development Bank \(IADB\)](https://data.iadb.org/)
 * [International Labour Organization](http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm)
 * [International Maritime Organization](http://www.imo.org/KnowledgeCentre/ShipsAndShippingFactsAndFigures/Statisticalresources/Pages/default.aspx)
 * [International Monetary Fund](http://www.imf.org/external/data.htm)
