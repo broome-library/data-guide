@@ -4,7 +4,7 @@
 
 * [CSU Channel Islands](https://www.csuci.edu/)
 * [DataQuest](http://dq.cde.ca.gov/dataquest/)
-* [Ed-Data](http://www.ed-data.k12.ca.us/Pages/Home.aspx)
+* [Ed-Data](https://www.ed-data.org/)
 * [Standardized Testing and Reporting Program](http://star.cde.ca.gov/)
 * [Ventura County Community College District](http://www.vcccd.edu/departments/institutional-research)
 
