@@ -10,7 +10,7 @@
 
 ## Business & Labor
 
-* [Workforce Investment Board of Ventura County](http://portal.countyofventura.org/portal/page/portal/WIB/JobsCenterJCCs)
+* [Ventura County Workforce Development Board](http://www.workforceventuracounty.org/)
 
 ## Local Government
 
