@@ -28,7 +28,7 @@
 
 ## Health & Vital Statistics
 
-* [County of Ventura Human Services Agency](http://www.ventura.org/human-services-agency/data-statistics)
+* [County of Ventura Human Services Agency](https://www.ventura.org/human-services-agency/)
 * [Ventura County Health Agency - Public Health](http://www.vchca.org/public-health)
 
 ## Crime
