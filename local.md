@@ -33,7 +33,7 @@
 
 ## Crime
 
-* [Ojai Police Department](http://www.ci.ojai.ca.us/index.asp?Type=B_BASIC&SEC={2B96F7F2-0F27-489C-8397-9CDD9A9DD33C})
+* [Ojai Police Department](http://ojaicity.org/ojai-police-department/)
 * [Oxnard Poice Deparment](http://www.oxnardpd.org/)
 * [Santa Paula Police Department](http://www.ci.santa-paula.ca.us/police/)
 * [Thousand Oaks Police Department](http://www.toaks.org/government/depts/police/)
