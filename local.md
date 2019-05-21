@@ -21,7 +21,7 @@
 * [City of Oxnard](http://www.ci.oxnard.ca.us/)
 * [City of Port Hueneme](http://www.ci.port-hueneme.ca.us/)
 * [City of Santa Paula](http://www.ci.santa-paula.ca.us/)
-* [City of Simi Valley](http://www.ci.simi-valley.ca.us/)
+* [City of Simi Valley](https://www.simivalley.org/)
 * [City of Thousand Oaks](http://ci.thousand-oaks.ca.us/)
 * [City of Ventura](http://www.cityofventura.net/)
 * [County of Ventura](http://www.countyofventura.org/)
