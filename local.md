@@ -2,7 +2,7 @@
 
 ## Education
 
-* [CSU Channel Islands](http://www.csuci.edu/ie/)
+* [CSU Channel Islands](https://www.csuci.edu/)
 * [DataQuest](http://dq.cde.ca.gov/dataquest/)
 * [Ed-Data](http://www.ed-data.k12.ca.us/Pages/Home.aspx)
 * [Standardized Testing and Reporting Program](http://star.cde.ca.gov/)
@@ -33,7 +33,7 @@
 
 ## Crime
 
-* [Ojai Police Department](http://www.ci.ojai.ca.us/index.asp?Type=B_BASIC&SEC=%7b2B96F7F2-0F27-489C-8397-9CDD9A9DD33C%7d)
+* [Ojai Police Department](http://www.ci.ojai.ca.us/index.asp?Type=B_BASIC&SEC={2B96F7F2-0F27-489C-8397-9CDD9A9DD33C})
 * [Oxnard Poice Deparment](http://www.oxnardpd.org/)
 * [Santa Paula Police Department](http://www.ci.santa-paula.ca.us/police/)
 * [Thousand Oaks Police Department](http://www.toaks.org/government/depts/police/)
