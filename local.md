@@ -35,7 +35,7 @@
 
 * [Ojai Police Department](http://ojaicity.org/ojai-police-department/)
 * [Oxnard Poice Deparment](http://www.oxnardpd.org/)
-* [Santa Paula Police Department](http://www.ci.santa-paula.ca.us/police/)
+* [Santa Paula Police Department](http://www.ci.santa-paula.ca.us/police/index.htm)
 * [Thousand Oaks Police Department](http://www.toaks.org/government/depts/police/)
 * [Ventura County Sherrif's Office](http://www.vcsd.org/crime_stats.php)
 * [Ventura Police Department](http://www.cityofventura.net/pd)
