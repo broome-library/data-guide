@@ -16,7 +16,7 @@
 
 * [California Department of Education](http://www.cde.ca.gov/ds/)
 * [DataQuest](http://dq.cde.ca.gov/dataquest/)
-* [Ed-Data](http://www.ed-data.k12.ca.us/Pages/Home.aspx)
+* [Ed-Data](https://www.ed-data.org/)
 * [Standardized Testing and Reporting Program](http://star.cde.ca.gov/)
 
 ## Environment
