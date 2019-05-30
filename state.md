@@ -30,7 +30,7 @@
 ## Health & Vital Statistics
 
 * [California Department of Health Services](https://www.dhcs.ca.gov/)
-* [California Department of Social Services](http://www.cdss.ca.gov/research/default.htm)
+* [California Department of Social Services](https://www.cdss.ca.gov/)
 * [Office of Health Information and Research - California](http://www.cdph.ca.gov/programs/OHIR/Pages/default.aspx)
 * [Statistics - California Department of Public Health](http://www.cdph.ca.gov/data/statistics/Pages/default.aspx)
 * [Vital Statistics and Population Summary Tables - California](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0CG8QFjAH&url=http%3A%2F%2Fwww.cdph.ca.gov%2Fdata%2Fstatistics%2FPages%2FVitalStatisticsandPopulationSummaryTables.aspx&ei=bhbYU7jOCMi1iwL0soGoBA&usg=AFQjCNGoXRqKHe3WWXW9m7UEmhF7Kn_QXg&bvm=bv.71778758,d.cGE)
