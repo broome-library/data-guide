@@ -22,7 +22,7 @@
 ## Environment
 
 * [California Department of Conservation](http://www.conservation.ca.gov/index/Pages/Index.aspx)
-* [California Department of Water Resources](http://www.water.ca.gov/data_home.cfm)
+* [California Department of Water Resources](https://water.ca.gov/)
 * [California Environmental Protection Agency](http://www.calepa.ca.gov/)
 * [Office of Mine Reclamation](http://www.conservation.ca.gov/omr/Pages/index.aspx)
 * [State Water Resources Control Board](http://www.swrcb.ca.gov/)
