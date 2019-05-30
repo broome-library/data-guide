@@ -29,7 +29,7 @@
 
 ## Health & Vital Statistics
 
-* [California Department of Health Services](http://www.cdph.ca.gov/data/Pages/default.aspx)
+* [California Department of Health Services](https://www.dhcs.ca.gov/)
 * [California Department of Social Services](http://www.cdss.ca.gov/research/default.htm)
 * [Office of Health Information and Research - California](http://www.cdph.ca.gov/programs/OHIR/Pages/default.aspx)
 * [Statistics - California Department of Public Health](http://www.cdph.ca.gov/data/statistics/Pages/default.aspx)
