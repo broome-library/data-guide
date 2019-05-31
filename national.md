@@ -78,7 +78,7 @@
 * [Federal Emergency Management Agency](http://www.fema.gov/policy-claim-statistics-flood-insurance/policy-claim-statistics-flood-insurance/policy-claim-13) \(FEMA\)
 * [Federal Geographic Data Committee](http://www.fgdc.gov/)
 * [FuelEconomyData](http://www.fueleconomy.gov/feg/download.shtml)
-* [GeoPlatform](http://www.geoplatform.gov/)
+* [GeoPlatform](https://www.geoplatform.gov/)
 * [Geological Survey](https://www.usgs.gov/products/data-and-tools/overview)
 * [Information Technology Center](http://www.nrcs.usda.gov/wps/portal/nrcs/main/national/itc/)
 * [National Agroforestry Center](http://nac.unl.edu/)
