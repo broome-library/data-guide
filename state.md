@@ -33,7 +33,7 @@
 * [California Department of Social Services](https://www.cdss.ca.gov/)
 * [Center for Health Statistics and Informatics \(CHSI\)](https://www.cdph.ca.gov/Programs/CHSI/Pages/Program-Landing1.aspx)
 * [California Department of Public Health - Researchers and Statisticians Page](https://www.cdph.ca.gov/Programs/CHSI/Pages/Researchers-and-Statisticians.aspx)
-* [Vital Statistics and Population Summary Tables - California](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0CG8QFjAH&url=http%3A%2F%2Fwww.cdph.ca.gov%2Fdata%2Fstatistics%2FPages%2FVitalStatisticsandPopulationSummaryTables.aspx&ei=bhbYU7jOCMi1iwL0soGoBA&usg=AFQjCNGoXRqKHe3WWXW9m7UEmhF7Kn_QXg&bvm=bv.71778758,d.cGE)
+* [California Department of Public Health - Vital Records Data and Statistics](https://www.cdph.ca.gov/Programs/CHSI/Pages/Data-and-Statistics-.aspx)
 * [Vital Statistics - California Department of Public Health](https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records.aspx)
 
 ## Legal & Legislative
